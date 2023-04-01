@@ -1,11 +1,10 @@
-[logo](https://github.com/Nishit223/Nishit223/blob/main/nishit%20rana.gif)
+
 <h1 align="center">Hi 👋, I'm Nishit Rana</h1>
 <h3 align="center">Learning MERN to build scalable web solutions</h3>
 
 <img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit223&label=Profile%20views&color=0e75b6&style=flat" alt="nishit223" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **coding and web technology**
