@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit223&label=Profile%20views&color=0e75b6&style=flat" alt="nishit223" /> </p>
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **coding and web technology**
 
