@@ -1,4 +1,4 @@
-<img alt="logo" width="100%" src="https://github.com/Nishit223/Nishit223/blob/main/nishit%20rana.gif">
+<img alt="logo" width="100%" src="https://github.com/Nishit223/Nishit223/blob/main/nishitrana.gif">
 
 <h1 align="center">Hi 👋, I'm Nishit Rana</h1>
 <h3 align="center">AWS Certified | Aspiring Cloud & DevOps Engineer</h3>
